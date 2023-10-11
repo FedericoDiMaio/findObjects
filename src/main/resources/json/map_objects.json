@@ -1,0 +1,8 @@
+{
+  "rooms": [
+    { "id": 1, "name": "Hallway", "north": 2, "objects": [ { "name": "Coat Rack" } ] },
+    { "id": 2, "name": "Dining Room", "south": 1, "west": 3, "east": 4, "objects": [ { "name": "Chandelier" }, { "name": "Table" } ] },
+    { "id": 3, "name": "Kitchen", "east": 2, "objects": [ { "name": "Knife" }, { "name": "Fork" } ] },
+    { "id": 4, "name": "Sun Room", "west": 2, "objects": [ { "name": "Potted Plant" }, { "name": "Chair" } ] }
+  ]
+}
